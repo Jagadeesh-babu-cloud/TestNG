@@ -1,0 +1,12 @@
+suitec\TestClassCC.class
+suitea\TestClassAA.class
+TestBase\TestBase.class
+listeners\CustomListener.class
+suitea\TestClassA.class
+suiteb\TestClassB.class
+suiteb\TestClassBB.class
+reports\ExtentReportManager.class
+testng\testngframework\AppTest.class
+DataProvider\TestDataProvider.class
+suitec\TestClassC.class
+sendinggmails\GmailLoginLogout.class
