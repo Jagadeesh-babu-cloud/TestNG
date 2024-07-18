@@ -7,7 +7,7 @@ import org.testng.annotations.DataProvider;
 //we can create single data provider for all the suites
 //we can also create single data provider for every suite when we have categorize data based on suites
 // source can be external Json,Excel,Yaml,Xml
-
+//adding comment
 public class TestDataProvider {
     
 	@DataProvider
